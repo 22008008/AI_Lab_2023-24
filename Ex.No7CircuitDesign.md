@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7bcb4b0d-f91d-40b7-a659-ac732bc7e24e)# Ex.No: 7  Logic Programming –  Logic Circuit Design
+## Ex.No: 7  Logic Programming –  Logic Circuit Design
 ### DATE: 12.09.2024                                                                           
 ### REGISTER NUMBER : 212222220049
 ### AIM: 
